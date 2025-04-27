@@ -6,7 +6,7 @@ Whether you’re seeking to enter the field or advance your career, this guide e
 ![image](https://github.com/user-attachments/assets/a50cd106-cb63-446a-a736-1ac0adaaa355)
 
 1. Cloud Computing Certifications
-•	AWS Certified Solutions Architect
+* AWS Certified Solutions Architect
 •	Google Professional Cloud Architect
 •	Microsoft Certified: Azure Solutions Architect Expert
 These cloud computing certifications validate your ability to design secure and scalable cloud architecture using platforms like AWS, Google Cloud, and Microsoft Azure.
