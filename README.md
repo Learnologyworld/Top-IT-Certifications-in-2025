@@ -85,7 +85,7 @@ Certifications in 2025 remain vital tools for professionals in tech. From develo
 Whether you're seeking your first job or targeting the highest-paying IT certifications, training and certifications will help you stay ahead in an evolving digital world.
 Certifications aren’t just about passing an exam—they're about proving value, expanding your expertise, and unlocking new opportunities.
 Discover the top paths that can redefine your future—because the best certifications don’t just fill resumes; they equip professionals for long-term success.
-![image](https://github.com/user-attachments/assets/820a148d-af64-4946-916e-12b29865baef)
+
 
 
 
