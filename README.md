@@ -7,14 +7,18 @@ Whether you’re seeking to enter the field or advance your career, this guide e
 
 1. Cloud Computing Certifications
 * AWS Certified Solutions Architect
-•	Google Professional Cloud Architect
-•	Microsoft Certified: Azure Solutions Architect Expert
+* Google Professional Cloud Architect
+* Microsoft Certified: Azure Solutions Architect Expert
+
 These cloud computing certifications validate your ability to design secure and scalable cloud architecture using platforms like AWS, Google Cloud, and Microsoft Azure.
+
 2. Cybersecurity Certifications
-•	Certified Information Systems Security Professional (CISSP)
-•	Certified Information Security Manager (CISM)
-•	Certified Cloud Security Professional (CCSP)
+* Certified Information Systems Security Professional (CISSP)
+* Certified Information Security Manager (CISM)
+* Certified Cloud Security Professional (CCSP)
+
 These credentials emphasize security and risk management—crucial in protecting enterprise data and infrastructure.
+
 3. Networking Certifications
 •	Cisco Certified Network Associate (CCNA)
 •	CompTIA Network+
