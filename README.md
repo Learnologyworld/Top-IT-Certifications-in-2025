@@ -21,7 +21,7 @@ These credentials emphasize security and risk management—crucial in protecting
 
 **3. Networking Certifications**
 *	Cisco Certified Network Associate (CCNA)
-*	[CompTIA Network+](https://www.learnologyworld.net/products/comptia-network-n10-008-voucher/5224517000000098481)
+*	[CompTIA Network+](https://www.learnologyworld.net/products/comptia-network-n10-008-or-n10-009-exam-voucher/5224517000002037523)
 
 Ideal for aspiring network engineers, these networking certifications cover essential network protocols, troubleshooting, and security.
 
@@ -40,7 +40,7 @@ As organizations become increasingly data-driven, these certifications help vali
 
 **6. Entry-Level IT Certifications**
 *	[CompTIA A+](https://www.learnologyworld.net/products/comptia-a-exam-220-1101-or-220-1102-voucher-with-free-dumps/5224517000000098469)
-*	[CompTIA Security+](https://www.learnologyworld.net/products/comptia-security-voucher/5224517000000098493)
+*	[CompTIA Security+](https://www.learnologyworld.net/products/comptia-security-exam-voucher-discount/5224517000002037152)
 *	Google IT Support Professional Certificate
 *	[Microsoft Fundamentals (Azure, 365)](https://www.learnologyworld.net/categories/microsoft-certification/5224517000001331119)
 *	Cisco CCNA
