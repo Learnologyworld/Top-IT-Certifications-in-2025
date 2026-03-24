@@ -40,7 +40,7 @@ As organizations become increasingly data-driven, these certifications help vali
 
 **6. Entry-Level IT Certifications**
 *	[CompTIA A+](https://www.learnologyworld.net/products/comptia-a-exam-220-1101-or-220-1102-voucher-with-free-dumps/5224517000000098469)
-*	[CompTIA Security+](https://www.learnologyworld.net/products/comptia-security-exam-voucher-discount/5224517000002037152)
+*	[CompTIA Security+](https://www.learnologyworld.net/products/comptia-security-voucher/5224517000000098493)
 *	Google IT Support Professional Certificate
 *	[Microsoft Fundamentals (Azure, 365)](https://www.learnologyworld.net/categories/microsoft-certification/5224517000001331119)
 *	Cisco CCNA
